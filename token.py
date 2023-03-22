@@ -8,7 +8,7 @@ N = '\x1b[0m'    # WARNA MATI
 H = '\x1b[1;92m' # HIJAU
 K = '\x1b[1;93m' # KUNING
 
-# 100090050337774
+# jangan merubah apapun agar secript tidak mudah eror
 
 P = '\x1b[1;97m' # PUTIH
 M = '\x1b[1;91m' # MERAH
@@ -105,3 +105,7 @@ else:
     print ''
     print '\x1b[1;91m maaf username/password salah'
     print ''
+
+# Author  : Ardia Trista
+# Github  : github.com/KutuMobaa
+# Youtube : Kutu Moba
